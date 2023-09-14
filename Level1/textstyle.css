@@ -1,0 +1,29 @@
+
+#h1{
+    color: brown;
+    text-decoration: underline; 
+    font-weight: normal;
+}
+#delete{
+    text-align: right;
+    text-decoration: line-through;
+}
+
+#p{
+    color: gray;
+}
+
+#a{
+    text-decoration: none;
+}
+
+#peraone{
+    font-family: robot;
+}
+#peratwo{
+    font-family: Arial;
+    font-size: large;
+}
+#peralineheight{
+    line-height: normal;
+}

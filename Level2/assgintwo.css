@@ -1,0 +1,38 @@
+#navbar{
+    height: 60px;
+    background-color: #0f1111;
+    color: white;
+}
+#navbutton{
+    background-color: #f08804;
+}
+
+#logo{
+    color: #f08804;
+    font-size: 25px;
+}
+
+a{
+    margin-right: 200px;
+    text-decoration: none;
+    color: white;
+}
+
+#content{
+    height: 533px;
+}
+
+.contentBox{
+    margin-top: 10px;
+    height: 100px;
+    width: 100px;
+    border-color: black;
+    border-style: solid;
+    display: inline-block;
+}
+
+#footer{
+    text-align: center;
+    background-color: #0f1111;
+    color: white;
+}

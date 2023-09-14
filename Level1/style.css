@@ -1,0 +1,48 @@
+
+
+p{
+    color: rgb(172, 161, 161);
+}
+
+button{
+    color:rgb(76, 224, 46);
+    background-color: rgb(212, 205, 95);
+}
+
+/* body{
+    background-color: rgb(185, 192, 188);
+} */
+
+#headingone{
+ color: red;
+}
+#headingtwo{
+    color: aqua;
+}
+#headingthree{
+    color: chocolate;
+}
+
+
+#box{
+    background-color:blue;
+    color: white;
+}
+
+.heading{
+    color:red;
+    background-color: peru;
+}
+h4,h5,h6{
+    color:yellow
+}
+
+#buttoncolor{
+    background-color:green;
+    color: black;
+}
+#loremcolor{
+    color:black;
+    text-align: left;
+}
+

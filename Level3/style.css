@@ -1,0 +1,49 @@
+/* #box1 {
+  height: 100px;
+  width: 100px;
+  background-color: green;
+}
+
+#box2 {
+  height: 50px;
+  width: 50%;
+  background-color: blue;
+} */
+
+div {
+  height: 100px;
+  width: 100px;
+  background-color: cadetblue;
+  border: 2px solid black;
+  display: inline-block;
+}
+/* 
+#box1{
+    position: static;
+}
+
+#box2{
+    position: relative;
+    top: 25px;
+    left: 10px;
+
+}
+
+#box3{
+    position: absolute;
+    top: 30px;
+}
+
+#box4{
+    position: fixed;
+    right: 26px;
+} */
+
+body{
+  background-image: url(tigar.jpg);
+  background-size: cover;
+}
+#box1{
+    background-image: url(cat.jpg);
+    background-size: cover;
+}
